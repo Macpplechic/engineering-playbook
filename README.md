@@ -10,14 +10,14 @@ If you've ever worked with me, you'll recognize this. If you're considering work
 
 ## Contents
 
-- [My communication expectations](docs/communication.md)
-- [How I run 1:1s](docs/one-on-ones.md)
-- [How I give feedback](docs/feedback.md)
-- [My hiring philosophy](docs/hiring.md)
-- [How I build team culture](docs/culture.md)
-- [How I handle underperformance](docs/underperformance.md)
-- [How I think about roadmap and priorities](docs/roadmap.md)
-- [How I measure engineering health](docs/engineering-health.md)
+- [My communication expectations](communication.md)
+- [How I run 1:1s](one-on-ones.md)
+- [How I give feedback](feedback.md)
+- [My hiring philosophy](hiring.md)
+- [How I build team culture](culture.md)
+- [How I handle underperformance](underperformance.md)
+- [How I think about roadmap and priorities](roadmap.md)
+- [How I measure engineering health](engineering-health.md)
 
 ---
 
